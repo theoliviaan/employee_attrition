@@ -2,6 +2,7 @@
 Analysis on company's HR data on employee attrition
 
 To view the interactive tableau dashboard, click [here](https://public.tableau.com/app/profile/akabogu.nmesoma.olivia/viz/HumanresourcesAttritionAnalysis/Dashboard1)
+
 To view an article on this analysis, click [here](https://medium.com/@akabogu.olivia/entry-level-project-employee-attrition-791cfdd8ec68)
 
 # Problem
